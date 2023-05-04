@@ -8,9 +8,13 @@ The website is fully responsive and designed to mimic the LinkedIn user interfac
 Table of Contents
 
 . Installation
+
 . Usage
+
 . Features
+
 . Contributing
+
 . License
 
 Installation
@@ -32,9 +36,12 @@ The website is designed to be used in the same way as the original LinkedIn webs
 Features
 
 . User authentication: users can sign up for an account, log in, and log out.
+
 . User profile: users can create a profile with their personal information, work experience, education, and skills.
+
 . Connections: users can connect with other users, view their profiles, and send messages.
   Job listings: users can browse job listings and apply for jobs.
+  
 . Responsive design: the website is fully responsive and adjusts to the size of the screen that it is being viewed on.
 
 Contributing
