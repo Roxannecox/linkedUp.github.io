@@ -24,7 +24,7 @@ To install this website on your local machine, follow these steps:
 1. Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/Roxannecox/linkedIn-clone.git
+git clone https://github.com/Roxannecox/linkedUp.git
 2. Navigate to the directory where you cloned the repository.
 bash
 Copy code
