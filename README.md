@@ -7,17 +7,17 @@ The website is fully responsive and designed to mimic the LinkedIn user interfac
 
 Table of Contents
 
-. Installation
+. INSTALLATION
 
-. Usage
+. USAGE
 
-. Features
+. FEATURES
 
-. Contributing
+. CONTRIBUTING
 
-. License
+. LICENSE
 
-Installation
+INSTALLATION
 
 To install this website on your local machine, follow these steps:
 
@@ -33,7 +33,8 @@ cd linkedIn-clone
 Usage
 The website is designed to be used in the same way as the original LinkedIn website. Users can sign up for an account, create a profile, connect with other users, and browse job listings. The website is fully responsive, meaning that it will adjust to the size of the screen that it is being viewed on.
 
-Features
+
+FEATURES
 
 . User authentication: users can sign up for an account, log in, and log out.
 
@@ -44,10 +45,11 @@ Features
   
 . Responsive design: the website is fully responsive and adjusts to the size of the screen that it is being viewed on.
 
-Contributing
+
+CONTRIBUTING
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-License
+LICENSE
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
